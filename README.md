@@ -1,2 +1,2 @@
 # advent-of-code-2023
-Solutions in Python (and hopefully Scala)
+Solutions to the Advent of Code project in Python (and hopefully Scala)
